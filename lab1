@@ -1,2 +1,6 @@
 this is line3
+<<<<<<< HEAD
 this is line4
+=======
+this is line2
+>>>>>>> feature-branch
